@@ -27,7 +27,6 @@ Contacts is a responsive web application for simple contact management that incl
 # NOTE:  I have just made the key points to review the way of build my code and the project architecture!
 
 
-# Duration : 8 H
 
 
 
